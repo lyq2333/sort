@@ -1,0 +1,6 @@
+The time of the sort of 2:0.000028s
+The time of the sort of 5:0.000149s
+The time of the sort of 8:0.000781s
+The time of the sort of 11:0.006897s
+The time of the sort of 14:0.063537s
+The time of the sort of 17:0.585919s
